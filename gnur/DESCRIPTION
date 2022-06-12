@@ -1,0 +1,19 @@
+Package: rdocs
+Version: 0.1.0.9001
+Date: 2022-06-11
+Title: Bla bla
+Authors@R: c(
+    person("Per", "Nyfelt", email = "per@alipsa.se", role = c("cre", "aut")),
+    person("Alipsa HB", email = "info@alipsa.se", role = "cph")
+    )
+Author:
+    Per Nyfelt [cre, aut],
+    Alipsa HB [cph]
+Maintainer: Per Nyfelt <per@alipsa.se>
+Depends: R (>= 3.1.0)
+Encoding: UTF-8
+Description: A package for generating R code documentation.
+License: MIT + file LICENSE
+URL: https://github.com/Alipsa/rdocs
+BugReports: https://github.com/Alipsa/rdocs/issues
+RoxygenNote: 7.1.0
